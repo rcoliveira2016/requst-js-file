@@ -24872,3 +24872,4 @@ var pdfjsBuild = 'e667c8cbc';
 ;
 });
 //# sourceMappingURL=pdf.js.map
+window.js1 = {bar:'foo'}

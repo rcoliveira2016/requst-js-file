@@ -30,6 +30,7 @@ window.onload = function () {
         'js/8.js',
     ]
     RequstJsFile.adicionarScript(listaArquivos, function(){
-        console.log('aq');
+        console.log(window.js8);
+        console.log(window.js1);
     });
 }
